@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Server Control Panel</title>
+    </head>
+    <body>
+        <h1>Server Control Panel</h1>
+        <form action="/stop" method="post">
+            <input type="submit" value="Stop">
+        </form>
+        <form action="/restart" method="post">
+            <input type="submit" value="Restart">
+        </form>
+        <form action="/send_command" method="post">
+            <label for="command">Write commands here:</label>
+            <input type="text" name="command" placeholder="Ex: /ban">
+        </form>
+    </body>
+</html>
