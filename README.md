@@ -32,13 +32,13 @@ https://localhost:5000/
 Now you should have a running panel that is connected to the server.
 
 # Features to add
-- [] Start BTN, requires rewrite or custom solution
-- [] Console
-- [] Login System
-- [] Permission System
-- [] Plugin Config File
-- [] Panel Config File
-- [] File Editing via Panel
-- [] File Upload via Panel
-- [] Statistics (Player Count, TPS, etc)
-- [] Statuses
+- [ ] Start BTN, requires rewrite or custom solution
+- [ ] Console
+- [ ] Login System
+- [ ] Permission System
+- [ ] Plugin Config File
+- [ ] Panel Config File
+- [ ] File Editing via Panel
+- [ ] File Upload via Panel
+- [ ] Statistics (Player Count, TPS, etc)
+- [ ] Statuses
